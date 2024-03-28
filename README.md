@@ -4,9 +4,9 @@ Welcome to the 100 Days Python Project-Based Learning Challenge! This challenge 
 
 ## Table of Contents
 1. [Day 1: Quiz game](https://github.com/Anish25122005/100-day-python-projects/blob/main/100%20day%20projects/quizproject1.py)
-2. [Day 2: rock paper scissors](https://github.com/Anish25122005/100-day-python-projects/blob/main/100%20day%20projects/project2-rockpaperscissors.py)
+2. [Day 2: Rock Paper Scissors](https://github.com/Anish25122005/100-day-python-projects/blob/main/100%20day%20projects/project2-rockpaperscissors.py)
 3. [Day 3: Alarm clock](https://github.com/Anish25122005/100-day-python-projects/blob/main/100%20day%20projects/project3-alarm%20clock.py)
-4. [Day 4: password generation](https://github.com/Anish25122005/100-day-python-projects/blob/main/100%20day%20projects/project4-passwordgeneration.py)
+4. [Day 4: Password generation](https://github.com/Anish25122005/100-day-python-projects/blob/main/100%20day%20projects/project4-passwordgeneration.py)
    
 ## Overview
 In this challenge, you will work on a Python project every day for 100 days. Each project is designed to reinforce your understanding of Python concepts and libraries by building something practical.
